@@ -254,15 +254,21 @@ Press [ENTER] to continue...
 // -- lab3.py -- //
 
 I love Python!
+
 Keyword arguments are great!!!!
+
 I guess Java is okay...
+
 LET'S GO STANFORD!!
+
 Average of first 10 primes is 12.9
+
 =========================
 | first_name  |     Sam |
 | shirt_color |    pink |
 | last_name   | Redmond |
 =========================
+
 ==================================
 |           album |     1989     |
 |            song |    Style     |
