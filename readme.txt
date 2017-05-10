@@ -108,6 +108,7 @@ linear_merge
 
 
 -- lab1.py & lab2.py --
+
 ['a', '', '']
 [[1], [1], [1]]
 
@@ -251,6 +252,7 @@ Press [ENTER] to continue...
 
 
 -- lab3.py --
+
 I love Python!
 Keyword arguments are great!!!!
 I guess Java is okay...
