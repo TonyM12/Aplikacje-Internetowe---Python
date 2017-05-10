@@ -105,6 +105,115 @@ linear_merge
 
 999 -> 2998 -> 1499.0 -> 4498.0 -> 2249.0 -> 6748.0 -> 3374.0 -> 1687.0 -> 5062.0 -> 2531.0 -> 7594.0 -> 3797.0 -> 11392.0 -> 5696.0 -> 2848.0 -> 1424.0 -> 712.0 -> 356.0 -> 178.0 -> 89.0 -> 268.0 -> 134.0 -> 67.0 -> 202.0 -> 101.0 -> 304.0 -> 152.0 -> 76.0 -> 38.0 -> 19.0 -> 58.0 -> 29.0 -> 88.0 -> 44.0 -> 22.0 -> 11.0 -> 34.0 -> 17.0 -> 52.0 -> 26.0 -> 13.0 -> 40.0 -> 20.0 -> 10.0 -> 5.0 -> 16.0 -> 8.0 -> 4.0 -> 2.0 -> 1.0
 
+-- lab1.py & lab2.py --
+['a', '', '']
+[[1], [1], [1]]
+
+object_reference
+None
+[1, 0, 0]
+Press [ENTER] to continue...
+
+gcd
+None
+Press [ENTER] to continue...
+
+flip_dict
+None
+{'CA': ['ON'], 'US': ['CA', 'NY']}
+Press [ENTER] to continue...
+
+comprehension_read
+None
+[1, 2, 3, 4]
+[-2, -1, 0, 1, 2, 3, 4, 5, 6, 7]
+[0, 3, 6, 9, 2, 5, 8, 1, 4, 7, 0, 3, 6, 9]
+['python']
+[None, None, None]
+[[3, 2, 1, 12], ['a', 'b', 'c', 'aaaa'], [('do',), ['re'], 'mi', ('do', 'do', 'do', 'do')]]
+['Y', 'O', 'N']
+{8, 2, 3, 5}
+Press [ENTER] to continue...
+
+comprehension_write
+None
+[1, 3, 5, 7]
+[True, False, True, False]
+['sam', 'guido']
+['A', 'O', 'P']
+['apple', 'pear']
+[('apple', 5), ('orange', 6), ('pear', 4)]
+{'orange': 6, 'pear': 4, 'apple': 5}
+Press [ENTER] to continue...
+
+is_cyclone_phrase
+None
+True
+Press [ENTER] to continue...
+
+generate_pascal_row
+None
+[1, 5, 10, 10, 5, 1]
+Press [ENTER] to continue...
+
+Traceback (most recent call last):
+File "C:\Users\student.INFORMATYKA\Desktop\lab2.py", line 111, in
+for fn, args, kwargs in fns:
+ValueError: need more than 2 values to unpack
+
+=========== RESTART: C:\Users\student.INFORMATYKA\Desktop\lab2.py ===========
+
+['a', '', '']
+[[1], [1], [1]]
+
+object_reference
+None
+[1, 0, 0]
+Press [ENTER] to continue...
+
+gcd
+None
+Press [ENTER] to continue...
+
+flip_dict
+None
+{'CA': ['ON'], 'US': ['CA', 'NY']}
+Press [ENTER] to continue...
+
+comprehension_read
+None
+[1, 2, 3, 4]
+[-2, -1, 0, 1, 2, 3, 4, 5, 6, 7]
+[0, 3, 6, 9, 2, 5, 8, 1, 4, 7, 0, 3, 6, 9]
+['python']
+[None, None, None]
+[[3, 2, 1, 12], ['a', 'b', 'c', 'aaaa'], [('do',), ['re'], 'mi', ('do', 'do', 'do', 'do')]]
+['Y', 'O', 'N']
+{8, 2, 3, 5}
+Press [ENTER] to continue...
+
+comprehension_write
+None
+[1, 3, 5, 7]
+[True, False, True, False]
+['sam', 'guido']
+['A', 'O', 'P']
+['apple', 'pear']
+[('apple', 5), ('orange', 6), ('pear', 4)]
+{'orange': 6, 'pear': 4, 'apple': 5}
+Press [ENTER] to continue...
+
+is_cyclone_phrase
+None
+True
+Press [ENTER] to continue...
+
+generate_pascal_row
+None
+[1, 5, 10, 10, 5, 1]
+Press [ENTER] to continue...
+
+Done!
 
 -- lab3.py --
 I love Python!
